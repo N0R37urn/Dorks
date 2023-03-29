@@ -11,6 +11,7 @@ These are some of the many Google Dorking commands available. With these command
 ### Search for information on other websites
 - site:pastebin.com "domain.com"
 - site:s3.amazonaws.com "domain.com"
+- site:dev.azure.com "domain.com"
 
 ### Search in social networks
 - KeyWord @facebook / @twitter / @instagram ...
