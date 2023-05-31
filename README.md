@@ -16,6 +16,9 @@ These are some of the many Google Dorking commands available. With these command
 ### Search for information on other websites
 - site:pastebin.com "domain.com"
 - site:pdfcoffee.com "domain.com"
+- site:docplayer.es "domain.com"
+- site:dl-manual.com "domain.com"
+- site:vsip.info "domain.com"
 - site:xdocs.pl "domain.com"
 - site:scribd.com "domain.com"
 - site:s3.amazonaws.com "domain.com"
